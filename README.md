@@ -1,5 +1,5 @@
 ## ISL CMake port
-This is a CMake port of the Integer Set Library
+This is a CMake port of the Integer Set Library (work in progress)
 
 isl is a thread-safe C library for manipulating sets and relations
 of integer points bounded by affine constraints.  The descriptions of
